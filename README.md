@@ -1,6 +1,6 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
-## DEVELOPED BY: ASHWIN KUMAR S
-## REG NO: 212222240013
+## DEVELOPED BY: Berjin Shabeck
+## REG NO: 212222240018
 ## AIM:
 To Implementation of Classical Planning Algorithm
 ## Algorithm:
